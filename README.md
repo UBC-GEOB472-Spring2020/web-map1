@@ -19,9 +19,9 @@ My reflective analysis:
   
   
   Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "MapScreenshot1")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/MapScreenshot1.png "MapScreenshot1")
 
 Reference-style: 
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "MapScreenshot1"
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/MapScreenshot1.png "MapScreenshot1"
