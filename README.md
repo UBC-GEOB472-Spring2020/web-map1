@@ -18,10 +18,7 @@ My reflective analysis:
   
   
   
-  Inline-style: 
+
 ![alt text](https://github.com/UBC-GEOB472-Spring2020/web-map1/blob/master/MapScreenshot1.png "MapScreenshot1")
 
-Reference-style: 
-![alt text][logo]
 
-[logo]: https://github.com/UBC-GEOB472-Spring2020/web-map1/blob/master/MapScreenshot1.png "MapScreenshot1"
