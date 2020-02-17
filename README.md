@@ -15,3 +15,13 @@ My reflective analysis:
  I made several zoom features that would not be confusing to her. I made water featured darker before you approach them. I made some changes to the land feautres through zoom, where it would appear more green as you approach ( because Iceland IS green). I also wanted to add labels to my markers, but unfortunately all my points were grouped together and one label would apply to all, even though I wanted to label each marker individually.
   
   I returned to my work and realzied the points I added were in addition to the chicago points that I had forgotten to get rid of. I successfully removed them on mapbox, but my html file kept the chicago points and I do not understand where those points are coming from. There were a lot of hiccups with this and I think I could do a lot better on a second try, and make it a more easy to follow map for future Iceland visitors who want some hotspots to visit (plus the hospital). I would add more hillshade and terrain in a map that should be marketting Iceland. My goal with this was to keep it very simple and very easy for my mom to see.
+  
+  
+  
+  Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "MapScreenshot1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "MapScreenshot1"
